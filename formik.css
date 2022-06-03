@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    color: rgb(93, 245, 22);
+    text-align: center;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+}
+legend{
+    font-size: x-large;
+}
